@@ -4,7 +4,7 @@
 
     <groupId>org.teamapps</groupId>
     <artifactId>teamapps-icons8-icon-provider</artifactId>
-    <version>0.9.7</version>
+    <version>0.9.8-SNAPSHOT</version>
 
     <name>TeamApps Icons8 Flat Color Icon Provider</name>
     <description>TeamApps Icons8 Flat Color Icon Provider</description>
@@ -54,7 +54,7 @@
         <url>https://github.com/teamapps-org/teamapps-icons8-icon-provider</url>
         <connection>scm:git:git@github.com:teamapps-org/teamapps-icons8-icon-provider.git</connection>
         <developerConnection>scm:git:git@github.com:teamapps-org/teamapps-icons8-icon-provider.git</developerConnection>
-        <tag>v0.9.7</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
