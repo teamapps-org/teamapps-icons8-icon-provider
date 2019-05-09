@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.teamapps</groupId>
     <artifactId>teamapps-icons8-icon-provider</artifactId>
-    <version>0.9.7-SNAPSHOT</version>
+    <version>0.9.7</version>
 
     <name>TeamApps Icons8 Flat Color Icon Provider</name>
     <description>TeamApps Icons8 Flat Color Icon Provider</description>
@@ -56,7 +54,7 @@
         <url>https://github.com/teamapps-org/teamapps-icons8-icon-provider</url>
         <connection>scm:git:git@github.com:teamapps-org/teamapps-icons8-icon-provider.git</connection>
         <developerConnection>scm:git:git@github.com:teamapps-org/teamapps-icons8-icon-provider.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v0.9.7</tag>
     </scm>
 
     <dependencies>
